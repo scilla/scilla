@@ -1,5 +1,5 @@
 ![42 Roma Luiss](https://badge42.herokuapp.com/api/stats/scilla)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanorc&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanorc&show_icons=true&theme=gruvbox&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanorc&langs_count=5&show_icons=true&theme=gruvbox)
